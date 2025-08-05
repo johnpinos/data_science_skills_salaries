@@ -67,7 +67,7 @@ Below is a breakdown of the highest-paying remote Data Scientist positions in 20
 - **Top companies:** Selby Jennings leads with two positions exceeding $500,000. Other notable companies include Algo Capital Group, Demandbase, Walmart, and Reddit.
 - **Role diversity:** Positions range from *Staff Data Scientist* to *Director* and *Head of Data Science*, reflecting a broad spectrum of levels and specializations within the field.
 
-![Top Paying Roles][assets\1_top_paying_data_roles.png] 
+![Top Paying Roles](./assets/1_top_paying_data_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data scientist; ChatGPT generated this graph from my SQL query results*
 
  ### 2. Skills Required in the Highest-Paying Data Scientist Jobs
@@ -125,7 +125,7 @@ Below is a breakdown of the most in-demand skills found in the top 10 highest-pa
 - In terms of **machine learning frameworks**, both **TensorFlow** and **PyTorch** are included in 2 job descriptions.
 - Other relevant tools include **DataRobot** and **Scala**, each appearing once.
 
-![Top Paying Skills][assets\2_top_paying_data_roles_skills.png]
+![Top Paying Skills](./assets/2_top_paying_data_roles_skills.png)
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data scientist; ChatGPT generated this graph from my SQL query results*
 
 ### 3. Most In-Demand Skills for Data Scientists
@@ -301,6 +301,3 @@ Throughout this project, I strengthened my data analysis skills using SQL, focus
 - 📊 **Grouping and aggregation:** Application of functions like COUNT(), AVG(), ROUND(), and GROUP BY.
 - 🔍 **Applied analytical thinking:** Ability to translate strategic questions into precise SQL queries.
 - 📈 **Data-driven interpretation:** Critical identification of patterns and trends relevant to decision-making.
-
-[assets\1_top_paying_data_roles.png]: assets\1_top_paying_data_roles.png
-[assets\2_top_paying_data_roles_skills.png]: assets\2_top_paying_data_roles_skills.png
